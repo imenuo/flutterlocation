@@ -9,6 +9,9 @@ flutter:
     androidPackage: com.lyokone.location
     pluginClass: LocationPlugin
 
+environment:
+  sdk: '>=1.19.0 <3.0.0'
+
 dependencies:
   flutter:
     sdk: flutter
